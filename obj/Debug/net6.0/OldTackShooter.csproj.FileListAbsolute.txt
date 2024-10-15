@@ -1,0 +1,30 @@
+C:\Users\mbroc\OneDrive\Documents\BTD6 Mod Sources\Alien Monkey\bin\Debug\net6.0\OldTackShooterMod.deps.json
+C:\Users\mbroc\OneDrive\Documents\BTD6 Mod Sources\Alien Monkey\bin\Debug\net6.0\OldTackShooterMod.dll
+C:\Users\mbroc\OneDrive\Documents\BTD6 Mod Sources\Alien Monkey\obj\Debug\net6.0\OldTackShooter.csproj.AssemblyReference.cache
+C:\Users\mbroc\OneDrive\Documents\BTD6 Mod Sources\Alien Monkey\obj\Debug\net6.0\OldTackShooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbroc\OneDrive\Documents\BTD6 Mod Sources\Alien Monkey\obj\Debug\net6.0\OldTackShooter.AssemblyInfoInputs.cache
+C:\Users\mbroc\OneDrive\Documents\BTD6 Mod Sources\Alien Monkey\obj\Debug\net6.0\OldTackShooter.AssemblyInfo.cs
+C:\Users\mbroc\OneDrive\Documents\BTD6 Mod Sources\Alien Monkey\obj\Debug\net6.0\OldTackShooter.csproj.CoreCompileInputs.cache
+C:\Users\mbroc\OneDrive\Documents\BTD6 Mod Sources\Alien Monkey\obj\Debug\net6.0\OldTackShooterMod.dll
+C:\Users\mbroc\OneDrive\Documents\BTD6 Mod Sources\Alien Monkey\obj\Debug\net6.0\refint\OldTackShooterMod.dll
+C:\Users\mbroc\OneDrive\Documents\BTD6 Mod Sources\Alien Monkey\obj\Debug\net6.0\ref\OldTackShooterMod.dll
+C:\Users\mbroc\OneDrive\Documents\BTD6 Mod Sources\Old Tack Shooter\bin\Debug\net6.0\OldTackShooterMod.deps.json
+C:\Users\mbroc\OneDrive\Documents\BTD6 Mod Sources\Old Tack Shooter\bin\Debug\net6.0\OldTackShooterMod.dll
+C:\Users\mbroc\OneDrive\Documents\BTD6 Mod Sources\Old Tack Shooter\obj\Debug\net6.0\OldTackShooter.csproj.AssemblyReference.cache
+C:\Users\mbroc\OneDrive\Documents\BTD6 Mod Sources\Old Tack Shooter\obj\Debug\net6.0\OldTackShooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbroc\OneDrive\Documents\BTD6 Mod Sources\Old Tack Shooter\obj\Debug\net6.0\OldTackShooter.AssemblyInfoInputs.cache
+C:\Users\mbroc\OneDrive\Documents\BTD6 Mod Sources\Old Tack Shooter\obj\Debug\net6.0\OldTackShooter.AssemblyInfo.cs
+C:\Users\mbroc\OneDrive\Documents\BTD6 Mod Sources\Old Tack Shooter\obj\Debug\net6.0\OldTackShooter.csproj.CoreCompileInputs.cache
+C:\Users\mbroc\OneDrive\Documents\BTD6 Mod Sources\Old Tack Shooter\obj\Debug\net6.0\OldTackShooterMod.dll
+C:\Users\mbroc\OneDrive\Documents\BTD6 Mod Sources\Old Tack Shooter\obj\Debug\net6.0\refint\OldTackShooterMod.dll
+C:\Users\mbroc\OneDrive\Documents\BTD6 Mod Sources\Old Tack Shooter\obj\Debug\net6.0\ref\OldTackShooterMod.dll
+C:\Users\Mattheo\OneDrive\Documents\BTD6 Mod Sources\Old Tack Shooter\bin\Debug\net6.0\OldTackShooterMod.deps.json
+C:\Users\Mattheo\OneDrive\Documents\BTD6 Mod Sources\Old Tack Shooter\bin\Debug\net6.0\OldTackShooterMod.dll
+C:\Users\Mattheo\OneDrive\Documents\BTD6 Mod Sources\Old Tack Shooter\obj\Debug\net6.0\OldTackShooter.csproj.AssemblyReference.cache
+C:\Users\Mattheo\OneDrive\Documents\BTD6 Mod Sources\Old Tack Shooter\obj\Debug\net6.0\OldTackShooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mattheo\OneDrive\Documents\BTD6 Mod Sources\Old Tack Shooter\obj\Debug\net6.0\OldTackShooter.AssemblyInfoInputs.cache
+C:\Users\Mattheo\OneDrive\Documents\BTD6 Mod Sources\Old Tack Shooter\obj\Debug\net6.0\OldTackShooter.AssemblyInfo.cs
+C:\Users\Mattheo\OneDrive\Documents\BTD6 Mod Sources\Old Tack Shooter\obj\Debug\net6.0\OldTackShooter.csproj.CoreCompileInputs.cache
+C:\Users\Mattheo\OneDrive\Documents\BTD6 Mod Sources\Old Tack Shooter\obj\Debug\net6.0\OldTackShooterMod.dll
+C:\Users\Mattheo\OneDrive\Documents\BTD6 Mod Sources\Old Tack Shooter\obj\Debug\net6.0\refint\OldTackShooterMod.dll
+C:\Users\Mattheo\OneDrive\Documents\BTD6 Mod Sources\Old Tack Shooter\obj\Debug\net6.0\ref\OldTackShooterMod.dll
